@@ -8,7 +8,7 @@ function App() {
 
       <div className="container">
         <Header />
-        2
+        22
         <Footer />
       </div>
 
